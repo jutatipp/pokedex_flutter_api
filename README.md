@@ -18,6 +18,6 @@
 
 ## Run
 flutter pub get
-flutter run
+flutter run -d chrome
 
 เป็นงานเพื่อฝึกการใช้งาน API และการแสดงผลข้อมูลใน Flutter
