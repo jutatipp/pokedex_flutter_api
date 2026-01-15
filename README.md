@@ -17,7 +17,7 @@
 - แสดงค่าสถานะ (Stats) ของ Pokémon
 
 ## Run
-flutter pub get
-flutter run -d chrome
+- flutter pub get
+- flutter run -d chrome
 
 เป็นงานเพื่อฝึกการใช้งาน API และการแสดงผลข้อมูลใน Flutter
